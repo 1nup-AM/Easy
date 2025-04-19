@@ -20,7 +20,7 @@ const testimonials = [
     id: 2,
     name: "Rahul Verma",
     role: "JEE Aspirant",
-    quote: "Easy Math helped me crack JEE with a 98 percentile! The problem-solving techniques I learned were invaluable.",
+    quote: "Easy Math helped me pass CBSE boards exam with 98 percent! The problem-solving techniques I learned were invaluable.",
     before: 70,
     after: 98,
     stars: 5
