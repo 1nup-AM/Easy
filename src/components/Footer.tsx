@@ -14,7 +14,7 @@ const Footer = () => {
               className="h-10 mb-6"
             />
             <p className="text-gray-600 mb-6 max-w-md">
-              Easy Math is a premium coaching platform for CBSE, JEE, and IB students, helping them excel in mathematics through personalized learning.
+              EasyMath is a premium coaching platform for CBSE students, helping them excel in mathematics through personalized learning.
             </p>
             <div className="flex space-x-4">
               <a href="https://www.instagram.com/easymath_officials/" target='_blank' rel='noopener noreferrer' aria-label='Instagram' className="h-10 w-10 rounded-full bg-easymath-blue/10 flex items-center justify-center text-easymath-blue hover:bg-easymath-blue hover:text-white transition-colors">
@@ -59,15 +59,6 @@ const Footer = () => {
               <li>
                 <a href="#" className="text-gray-600 hover:text-easymath-blue transition-colors">CBSE Mathematics (11-12)</a>
               </li>
-              <li>
-                <a href="#" className="text-gray-600 hover:text-easymath-blue transition-colors">JEE Mathematics</a>
-              </li>
-              <li>
-                <a href="#" className="text-gray-600 hover:text-easymath-blue transition-colors">IB Mathematics</a>
-              </li>
-              <li>
-                <a href="#" className="text-gray-600 hover:text-easymath-blue transition-colors">Olympiad Training</a>
-              </li>
             </ul>
           </div>
           
@@ -97,7 +88,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-gray-200">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-500 text-sm">
-              © {new Date().getFullYear()} Easy Math. All rights reserved.
+              © {new Date().getFullYear()} EasyMath. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-500 hover:text-easymath-blue text-sm">Privacy Policy</a>
