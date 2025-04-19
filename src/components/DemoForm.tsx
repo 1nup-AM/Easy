@@ -169,8 +169,6 @@ const DemoForm = () => {
                         <option value="10">Class 10</option>
                         <option value="11">Class 11</option>
                         <option value="12">Class 12</option>
-                        <option value="JEE">JEE Preparation</option>
-                        <option value="IB">IB Mathematics</option>
                       </select>
                     </div>
                     
