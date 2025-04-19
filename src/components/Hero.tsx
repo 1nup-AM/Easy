@@ -46,7 +46,7 @@ const Hero: React.FC<HeroProps> = ({ demoFormRef }) => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 items-center">
           <div className="space-y-6 animate-fade-in">
             <div className="inline-block bg-easymath-blue/10 text-easymath-blue px-4 py-1 rounded-full text-sm font-medium">
-              CBSE, JEE, & IB Math Coaching
+              CBSE Math Coaching
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-easymath-blue leading-tight">
